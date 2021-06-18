@@ -1,0 +1,24 @@
+.heading
+{
+    font-size:25px;
+    width:60%;
+    margin:0px;
+    box-shadow:5px 5px 5px pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    border-width:3px;
+    border-color:rgb(78, 248, 129);
+    border-style:ridge;
+}
+
+.login_div
+{
+    float: none;
+    background:white;
+    padding:10px;
+    border-radius: 20px;
+    color:black;
+    box-shadow:5px 5px 5px black;
+}
+    
+
